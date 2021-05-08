@@ -3,6 +3,7 @@
   --bs-white: #ededed;
   --bs-font-sans-serif: "Inter", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-serif: "Cormorant", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --full-width-gutter: max(0.75rem, calc(15vw - 3rem));
 }
 
 body {
@@ -23,4 +24,11 @@ body {
 }
 .dropdown-item.active, .dropdown-item:active {
 	background-color: var(--bs-primary);
+}
+.navbar-big {
+	padding-top: 5rem;
+}
+.navbar > .container-fluid {
+	padding-left: var(--full-width-gutter);
+	padding-right: var(--full-width-gutter);
 }

@@ -13,7 +13,7 @@ For the individual design pages, I intend to use a two-column layout with the im
 
 
 ## Stylistic Choices
-
+![Color Palette and Font Choices](./palettes.png)
 ### Colors
 Each year brings a different color scheme with the design system I created for that year, yet throughout it all the TEDx Branding mandated red is a consistent [Pantone 485][tedx-branding]. I will use this color as the main accent color, paired with a neutral light gray (since full white is harsher on the eyes, despite making for better contrast) and a solid black.
 

@@ -26,3 +26,11 @@ body {
 .navbar-big {
 	padding-top: calc(20vh - 2rem);
 }
+
+/* Unreasonably small headers */
+h1, .h1 {
+	font-size: 4rem;
+}
+h2, .h2 {
+	font-size: 3rem;
+}

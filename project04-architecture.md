@@ -30,4 +30,4 @@ I intend to make a portfolio website to showcase print posters I have designed f
     - [Description]
     
 # Choreography
-I will group and order the designs based upon chronilogical order, grouping them by Year if selecting designs across years.
+I will group and order the designs based upon chronological order, grouping them by Year if selecting designs across years.

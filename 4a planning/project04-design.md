@@ -6,10 +6,10 @@ msundbe2
 
 ## Layout
 ![Homepage Wireframe](./layout-index.png)
-For the homepage, I intend to use a card layout, to best display an overview look at the various images. Along the top I will have a navbar, with dropdowns for each year.
+For the homepage, I intend to use a card layout, to best display an overview look at the various images. Along the top I will have a navbar, with dropdowns for each year. This parallels the important visual flow described by the slides, with the site title in the primary optical area, navigation in the strong fallow area and content falling in the weak fallow and terminal areas.
 
 ![Individual Page Wireframe](./layout-individual.png)
-For the individual design pages, I intend to use a two-column layout with the image(s) taking up 2/3rds of the screen on the left, followed by the metadata in a column on the right.
+For the individual design pages, I intend to use a two-column layout with the image(s) taking up 2/3rds of the screen on the left, followed by the metadata in a column on the right. Instead of relying upon the inherent flow of the eye in the Z pattern I intend to use the scale of the image to draw attention, then follow up with text in the following space (as next visited with a LTR scan pattern).
 
 
 ## Stylistic Choices

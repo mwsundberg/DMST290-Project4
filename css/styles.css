@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 img {
 	/* alt-text styling */
 	text-align: center;
-	background-color: var(--bs-primary);
-	color: var(--bs-white);
+	background-color: #ffffff;
+	padding: calc(var(--bs-gutter-x)/ 2);
+	color: var(--bs-primary);
 }

@@ -1,0 +1,26 @@
+:root {
+  --bs-primary: #e62b1e;
+  --bs-white: #ededed;
+  --bs-font-sans-serif: "Inter", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif: "Cormorant", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body {
+	background-color: var(--bs-white);
+	color: #000000;
+	font-size: 20px;
+}
+
+/* Since for some dumb reason they hardcode a color this by default */
+.bg-primary {
+	background-color: var(--bs-primary) !important;
+}
+
+/* Navbar styling overrides */
+.navbar-dark .navbar-brand {
+	color: var(--bs-white);
+	font-size: 2rem;
+}
+.dropdown-item.active, .dropdown-item:active {
+	background-color: var(--bs-primary);
+}

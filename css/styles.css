@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Inter:wght@400;700&display=swap');
+
+/* Non-override styles */
+.navbar {
+	font-family: var(--font-serif);
+	font-size: 2rem;
+}
+.dropdown-menu {
+	font-family: var(--bs-font-sans-serif);
+}

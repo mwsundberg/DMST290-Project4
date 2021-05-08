@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Inter:wght@400;700&display=swap');
+:root {
+	  --font-serif: "Cormorant", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
 
 /* Non-override styles */
 .navbar {
@@ -8,4 +11,13 @@
 .dropdown-menu {
 	font-family: var(--bs-font-sans-serif);
 }
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-serif);
+}
 
+img {
+	/* alt-text styling */
+	text-align: center;
+	background-color: var(--bs-primary);
+	color: var(--bs-white);
+}

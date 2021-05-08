@@ -15,10 +15,19 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: var(--font-serif);
 }
 
-img {
+.img-fluid {
 	/* alt-text styling */
 	text-align: center;
 	background-color: #ffffff;
 	padding: calc(var(--bs-gutter-x)/ 2);
 	color: var(--bs-primary);
+}
+
+img.crop-center {
+	object-fit: cover;
+	object-position: center center;
+}
+img.crop-top {
+	object-fit: cover;
+	object-position: center top;
 }

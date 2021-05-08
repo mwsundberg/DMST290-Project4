@@ -2,5 +2,3 @@
 Matthew Sundberg: *Information Architect, Visual Designer*
 
 Mini-portfolio site showcasing poster designs.
-
-##
